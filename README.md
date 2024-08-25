@@ -1,12 +1,7 @@
-# 👋 Hello! Welcome to my Github.
-## My name is Thiago.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=diasthiagoj&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-- 🌱 I’m currently learning Java and Android Development.
-- 👯 I’m looking to collaborate on AOSP Community.
--->
+### Olá, meu nome é Thiago!
 
-<div>
-<a href="https://github.com/diasthiagoj">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasthiagoj&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diasthiagoj&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</div>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Thiago&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Cursando Técnico em informática<br/> Eu sou desenvolvedor Android</p>
