@@ -10,5 +10,3 @@
 
 ## 🛠️ Tools and Technologies
 [![My Skills](https://skillicons.dev/icons?i=arch,kali,vscode,git,github,gitlab,gcp,aws)](https://skillicons.dev)<br><br>
-
-![DiasThiagoj GitHub stats](https://github-readme-stats.vercel.app/api?username=diasthiagoj&show_icons=true&theme=react)
