@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Thiago and my nickname is "diasthiagoj"!
+# 👋 Hello! Welcome to my Github.
+## My name is Thiago.
 
 <div>
 <a href="https://github.com/diasthiagoj">
