@@ -1,7 +1,16 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=diasthiagoj&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<h1 align="center">👋 Olá, eu sou Thiago</h1>
 
-### Olá, meu nome é Thiago!
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+</p><br><br>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Thiago&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Cursando Técnico em informática<br/> Eu sou desenvolvedor Android</p>
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
+
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=diasthiagoj&show_icons=true&theme=react)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
