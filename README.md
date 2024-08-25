@@ -1,16 +1,14 @@
-<h1 align="center">👋 Olá, eu sou Thiago</h1>
+<h1 align="center">👋 Hi, I'm Thiago</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+  💻 Studying Programming | 🌍 Software Developer
 </p><br><br>
 
 
-## 🚀 Linguagens de Programação
+## 🚀 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,arduino)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Tools and Technologies
 [![My Skills](https://skillicons.dev/icons?i=arch,kali,vscode,git,github,gitlab,gcp,aws)](https://skillicons.dev)<br><br>
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=diasthiagoj&show_icons=true&theme=react)
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação ou desenvolvimento de sistemas. Estou ansioso para ouvir de você! 😊 <br><br>
+![DiasThiagoj GitHub stats](https://github-readme-stats.vercel.app/api?username=diasthiagoj&show_icons=true&theme=react)
