@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github.
 ## My name is Thiago.
 
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning Java and Android Development.
 - 👯 I’m looking to collaborate on AOSP Community.
 -->
 
