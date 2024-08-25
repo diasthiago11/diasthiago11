@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,arduino,sqlite)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=arch,kali,vscode,git,github,gitlab,gcp,aws)](https://skillicons.dev)<br><br>
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=diasthiagoj&show_icons=true&theme=react)
 
